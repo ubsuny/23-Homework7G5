@@ -4,11 +4,13 @@ from mpl_toolkits.mplot3d import Axes3D
 import itertools
 import scipy.optimize
 
+# Physical constants
 ke2 = 197 / 137 # eV-nm   Coulomb force charge
 alpha = 1.09e3  # eV      parameter of model
 rho = 0.0321    # nm      parameter of model
 b = 1.0         # eV      regular
 c = 0.01        # nm
+
 #Helpful solution to convert itertools combinations to numpy arrays here:
 ## https://stackoverflow.com/questions/33282369/convert-itertools-array-into-numpy-array
 def cp(l):
@@ -55,4 +57,5 @@ class Cluster:
         '''Function that  scipy.optimize.minimize will call'''
         self.set_vals(vals)
         return self.V()
+
 
