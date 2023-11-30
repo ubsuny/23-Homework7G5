@@ -1,4 +1,9 @@
-%matplotlib notebook
+#use import matplotlib.pyplot as plt instead of matplotlib notebook to achieve interactive plot.
+from mpl_toolkits.mplot3d import Axes3D
+import plotly.graph_objects as go
+import matplotlib.pyplot as plt
+from mpl_toolkits.mplot3d import Axes3D
+import plotly.graph_objects as go
 
 fig = plt.figure()
 ax = fig.add_subplot(111, projection='3d')
