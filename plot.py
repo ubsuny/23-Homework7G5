@@ -1,4 +1,3 @@
-#use import matplotlib.pyplot as plt instead of matplotlib notebook to achieve interactive plot.
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 import plotly.graph_objects as go
@@ -25,5 +24,3 @@ fig.update_layout(scene=dict(xaxis_title='x', yaxis_title='y', zaxis_title='z'))
 
 # Display the interactive Plotly plot
 fig.show()
-
-
