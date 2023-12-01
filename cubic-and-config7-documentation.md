@@ -11,4 +11,11 @@ r_cl = np.array( [[0, 0, a], [0, a, 2*a], [a, a, 0], [a, -a, 0]] )<br>
 **For Cubic**<br>
 r_na = np.array( [ [a,0,0], [0, a, 0], [0, 0, a],[a, a, a] ] )<br>
 r_cl = np.array( [ [0, 0, 0],[a, a, 0],[a, 0, a],[0, a, a] ] )<br>
+# Plots, 
+## for cubic, 
 
+<img width="497" alt="Screenshot 2023-12-01 at 12 44 52 AM" src="https://github.com/uarif/23-Homework7G5/assets/13534352/a6cdf131-94d6-47ae-b1e9-85ff6a5a0b4d">
+
+## config-7 from paper. 
+
+<img width="460" alt="Screenshot 2023-12-01 at 12 44 30 AM" src="https://github.com/uarif/23-Homework7G5/assets/13534352/54e4086d-27a0-44c0-aaf3-1d3db85dda95">
