@@ -20,10 +20,6 @@ jobs:
         python -m pip install --upgrade pip
         pip install pylint
 
-    - name: Run Pylint on cubic.py
+    - name: Run Pylint on cubic.py and config_7
       run: |
-        pylint cubic.py
-
-    - name: Run Pylint on config_7.py
-      run: |
-        pylint config_7.py
+        pylint cubic.py config_7.py
