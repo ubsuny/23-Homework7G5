@@ -28,4 +28,4 @@ jobs:
     - name: List directory contents
       run:  ls -al
     - name: cubic.py
-      run: pylint cubic.py || exit 0 
+      run: pylint cubic.py config_7.py || exit 0 
