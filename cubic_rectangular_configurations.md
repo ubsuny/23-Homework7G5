@@ -225,3 +225,5 @@ Final potential: -27.729842270467213
 
 
 # GitHub Actions for nacl_main.py: Linting
+We linted the main Python file **nacl_main.py** using pylint and the output is below:
+![Alt text](Images/linting.png)
