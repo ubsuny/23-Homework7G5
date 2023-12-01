@@ -23,5 +23,6 @@ My pylint failes, IDK why, I tried but I dont have time, the deadline is near.
 # References, 
 [1] https://github.com/ubsuny/CompPhys/blob/main/MinMax/nacl.ipynb,<br>
 [2] https://pubs.aip.org/aapt/ajp/article-abstract/66/3/231/1044856/Evolving-few-ion-clusters-of-Na-and-Cl?redirectedFrom=fulltext
+[3] K. Michaelian, "Evolving few-ion clusters of Na and Cl",Am. J. Phys. 66, 231 (1998)
                                                                 
 
