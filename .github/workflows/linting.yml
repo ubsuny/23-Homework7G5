@@ -24,4 +24,4 @@ jobs:
       - name: Run Pylint
               
         run: |
-             pylint configuration_7.ipynb cubic_configuration.ipynb
+             pylint configuration_7.py cubic_configuration.py
