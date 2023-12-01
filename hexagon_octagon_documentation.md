@@ -9,8 +9,15 @@
 
 The initial guess of positions of Na ions and Cl ions are shown in the above array.
 
-Large circle represnts Na ions and small one represents cl ion.
+Large circle represnts Na ions and small one represents cl ion. The potential energy is -6.8997 eV.
+
+
 <img width="283" alt="image" src="https://github.com/sharmistharanit/23-Homework7G5/assets/143737948/651132fd-3321-4f56-b87b-f3272507a606">
+
+
+<img width="510" alt="image" src="https://github.com/sharmistharanit/23-Homework7G5/assets/143737948/3b3a0366-3912-49ba-b25a-eb919dcabad4">
+
+
 
 
 
