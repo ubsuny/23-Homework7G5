@@ -19,6 +19,7 @@ r_cl = np.array( [ [0, 0, 0],[a, a, 0],[a, 0, a],[0, a, a] ] )<br>
 ## config-7 from paper. 
 
 <img width="460" alt="Screenshot 2023-12-01 at 12 44 30 AM" src="https://github.com/uarif/23-Homework7G5/assets/13534352/54e4086d-27a0-44c0-aaf3-1d3db85dda95"> <br>
+My pylint failes, IDK why, I tried but I dont have time, the deadline is near. 
 # References, 
 [1] https://github.com/ubsuny/CompPhys/blob/main/MinMax/nacl.ipynb,<br>
 [2] https://pubs.aip.org/aapt/ajp/article-abstract/66/3/231/1044856/Evolving-few-ion-clusters-of-Na-and-Cl?redirectedFrom=fulltext
