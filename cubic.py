@@ -78,7 +78,7 @@ print ("Final optimized cluster positions")
 print(cluster.positions)
 print("Final potential:", res.fun)
 #Ploting 
-%matplotlib inline
+#%matplotlib inline
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
