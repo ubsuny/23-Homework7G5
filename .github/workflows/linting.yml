@@ -1,25 +1,29 @@
 name: Pylint
 
-on: [push, pull_request]
+on:
+  push:
 
 jobs:
-  lint:
+  lint: 
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v2
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.8 
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9  
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install pylint
+      - name: Install dependencies
+        run: |
+             pip install --upgrade pip
+             pip install -r requirements.txt  
 
-    - name: Run Pylint
-      run: |
-        pylint cubic.py config_7.py
+      - name: Run Pylint
+              
+        run: |
+             pylint congig_7.py cubic.py
+             
+             
