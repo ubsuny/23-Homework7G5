@@ -28,6 +28,6 @@ jobs:
     - name: List directory contents
       run:  ls -al
     - name: configuration.py
-      run: pylint nacl_main.py || exit 0  # Replace with the actual name of your Python script
+      run: pylint nacl_main.py cubic.py config_7.py || exit 0  # Replace with the actual name of your Python script
 
     
