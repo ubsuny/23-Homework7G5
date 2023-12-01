@@ -14,6 +14,10 @@ Large circle represnts Na ions and small one represents cl ion. The potential en
 
 <img width="283" alt="image" src="https://github.com/sharmistharanit/23-Homework7G5/assets/143737948/651132fd-3321-4f56-b87b-f3272507a606">
 
+The code used to get minimum potential energy is:
+<img width="634" alt="image" src="https://github.com/sharmistharanit/23-Homework7G5/assets/143737948/8af4e6b0-b62b-4495-b7e8-bd5e0e4b5265">
+
+
 
 <img width="510" alt="image" src="https://github.com/sharmistharanit/23-Homework7G5/assets/143737948/3b3a0366-3912-49ba-b25a-eb919dcabad4">
 
